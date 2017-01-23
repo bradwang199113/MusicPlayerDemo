@@ -1,0 +1,15 @@
+PODS:
+  - SlideMenuControllerSwift (3.0.1)
+  - VideoSplashKit (1.1.0)
+
+DEPENDENCIES:
+  - SlideMenuControllerSwift
+  - VideoSplashKit
+
+SPEC CHECKSUMS:
+  SlideMenuControllerSwift: 9a163b16d54afab734add42858cba7ef7c307755
+  VideoSplashKit: 0aa63d0bb37c5bd357de3e6a2a13dea5acad4d66
+
+PODFILE CHECKSUM: fed92369149847f481e2942b0bc4a37dade6e551
+
+COCOAPODS: 1.1.1
